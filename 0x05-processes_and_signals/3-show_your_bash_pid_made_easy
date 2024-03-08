@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#pid with processes whose name contain the word bash
+#no ps
+
+pgrep -l bash
